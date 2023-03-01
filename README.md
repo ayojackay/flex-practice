@@ -6,14 +6,7 @@ All you need to get started is `git clone` this repository that will have starte
 
 ---
 
-Happy Coding!
+Happy Coding! <br>
 ![Let's Code gif](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
 
-<!-- 
- - You must have ONE heading one
- - You must have ONE heading two
- - Link flex
- - Use at least ONE bold, ONE code, ONE italic
- - OPTIONAL: Image
- - BONUS - Use an unordered/ordered list
- -->
+
